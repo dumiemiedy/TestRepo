@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0C73D9D2-585B-A72E-6FD2-66C1DC1460F6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/VoxelGrids.cs">
+    <Files>
+      <File FileName="Assets/Script/Voxel.cs" Line="28" Column="67" />
+      <File FileName="Assets/Script/VoxelGrids.cs" Line="69" Column="86" />
+      <File FileName="Assets/Script/VoxelTrigger.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestRepo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="VoxelGrids.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aa4cb14d-74b0-4986-9561-b1c9ff35d2a2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
